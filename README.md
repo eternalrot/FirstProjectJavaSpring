@@ -53,6 +53,7 @@ This image is displayed on the `greeting.html` page.
 - `src/main/java/.../controller/HelloController.java` — controller with `/` and `/greeting` endpoints
 - `src/main/resources/templates/greeting.html` — Thymeleaf HTML template
 - `src/main/resources/static/images/vistula.png` — static image resource
+  ![image alt](https://github.com/eternalrot/FirstProjectJavaSpring/blob/main/first.png?raw=true)
 
 ---
 
