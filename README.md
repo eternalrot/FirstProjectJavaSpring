@@ -14,7 +14,6 @@ Returns a simple text response in the browser (to verify that the controller wor
 
 Example response:
 - `Hello Vistula, in my first Spring controller.`
-- ![Screenshot](https://github.com/eternalrot/FirstProjectJavaSpring/commit/image.png)
 
 ---
 
