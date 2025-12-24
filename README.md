@@ -87,7 +87,3 @@ They can be opened in a browser after running the project locally.
   http://localhost:8080/greeting?name=Vistula
   
   ![image alt](https://github.com/eternalrot/FirstProjectJavaSpring/blob/main/third.png?raw=true)
-
-### Using Maven
-```bash
-mvn spring-boot:run
