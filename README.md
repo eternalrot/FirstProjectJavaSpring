@@ -75,14 +75,17 @@ They can be opened in a browser after running the project locally.
 
 - **Home (text response)**  
   http://localhost:8080/
+  
   ![image alt](https://github.com/eternalrot/FirstProjectJavaSpring/blob/main/first.png?raw=true)
 
 - **Greeting page (default name)**  
   http://localhost:8080/greeting
+  
   ![image alt](https://github.com/eternalrot/FirstProjectJavaSpring/blob/main/second.png?raw=true)
 
 - **Greeting page with parameter**  
   http://localhost:8080/greeting?name=Vistula
+  
   ![image alt](https://github.com/eternalrot/FirstProjectJavaSpring/blob/main/third.png?raw=true)
 
 ### Using Maven
