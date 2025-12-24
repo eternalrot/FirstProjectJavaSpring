@@ -1,4 +1,4 @@
-# First Project — Java Spring (Vistula)
+# First Project — Java Spring
 
 A small **educational Spring Boot project** that demonstrates:
 - a simple **REST endpoint** (`/`) returning plain text,
@@ -29,7 +29,7 @@ Examples:
 
 ---
 
-### 3) Static resources (images)
+### 3) Static resources
 The project contains an image:
 
 `src/main/resources/static/images/vistula.png`
@@ -48,7 +48,7 @@ This image is displayed on the `greeting.html` page.
 
 ---
 
-## 📁 Project Structure (key parts)
+## 📁 Project Structure
 
 - `src/main/java/.../controller/HelloController.java` — controller with `/` and `/greeting` endpoints
 - `src/main/resources/templates/greeting.html` — Thymeleaf HTML template
@@ -68,17 +68,17 @@ This image is displayed on the `greeting.html` page.
 
 ---
 
-## 🔗 Application URLs
+## 🔗 Application URLs and Screenshots 
 
 Below are the main URLs available in this application.
 They can be opened in a browser after running the project locally.
 
-- **Home (text response)**  
+- **Home**  
   http://localhost:8080/
   
   ![image alt](https://github.com/eternalrot/FirstProjectJavaSpring/blob/main/first.png?raw=true)
 
-- **Greeting page (default name)**  
+- **Greeting page**  
   http://localhost:8080/greeting
   
   ![image alt](https://github.com/eternalrot/FirstProjectJavaSpring/blob/main/second.png?raw=true)
