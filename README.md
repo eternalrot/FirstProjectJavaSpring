@@ -53,7 +53,6 @@ This image is displayed on the `greeting.html` page.
 - `src/main/java/.../controller/HelloController.java` — controller with `/` and `/greeting` endpoints
 - `src/main/resources/templates/greeting.html` — Thymeleaf HTML template
 - `src/main/resources/static/images/vistula.png` — static image resource
-  ![image alt](https://github.com/eternalrot/FirstProjectJavaSpring/blob/main/first.png?raw=true)
 
 ---
 
@@ -66,6 +65,25 @@ This image is displayed on the `greeting.html` page.
    - `http://localhost:8080/`
    - `http://localhost:8080/greeting`
    - `http://localhost:8080/greeting?name=Vistula`
+
+---
+
+## 🔗 Application URLs
+
+Below are the main URLs available in this application.
+They can be opened in a browser after running the project locally.
+
+- **Home (text response)**  
+  http://localhost:8080/
+  ![image alt](https://github.com/eternalrot/FirstProjectJavaSpring/blob/main/first.png?raw=true)
+
+- **Greeting page (default name)**  
+  http://localhost:8080/greeting
+  ![image alt](https://github.com/eternalrot/FirstProjectJavaSpring/blob/main/second.png?raw=true)
+
+- **Greeting page with parameter**  
+  http://localhost:8080/greeting?name=Vistula
+  ![image alt](https://github.com/eternalrot/FirstProjectJavaSpring/blob/main/third.png?raw=true)
 
 ### Using Maven
 ```bash
